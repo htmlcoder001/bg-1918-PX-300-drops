@@ -171,10 +171,6 @@ input::-moz-focus-inner {
     padding: 0px;
 }
 
-input:invalid {
-    background-color: rgb(240, 221, 221);
-}
-
 * {
     max-height: 1000000px;
 }
